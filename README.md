@@ -1,7 +1,7 @@
 # numberFinder
-6 numbers to use just once and a number to reach with only using 4 operations.
+I wrote a program to hack a simple game https://play.google.com/store/apps/details?id=tr.name.ekt.birislem
 
-game here: https://play.google.com/store/apps/details?id=tr.name.ekt.birislem
+The game aims to find the specified number using 4 operations and 6 specified numbers. You can only use a number once.
 
-program uses "List<int>" and solves the problem with brute force trial and error. 
+It uses `List<int>` and solves the problem with brute force trial and error. 
 C++ or array implementations might work faster.
